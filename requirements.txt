@@ -31,6 +31,13 @@ ffmpeg
 ffmpeg-python
 Pyromod 
 pytz
+cinemagoer
+yt_dlp
+youtube_search
+youtubesearchpython
+tgcrypto
+
+
 
 
 
