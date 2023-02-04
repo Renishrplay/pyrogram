@@ -34,8 +34,25 @@ pytz
 cinemagoer
 yt_dlp
 youtube_search
-youtubesearchpython
+youtube-search-python
+Wikipedia
 tgcrypto
+python-telegram-bot
+youtube-dl
+Shazamio
+pyyaml
+cachetools
+prettyconf
+PyPDF2
+PyDictionary
+datetime
+asyncio
+pyshorteners
+ytthumb
+
+
+
+
 
 
 
